@@ -1,4 +1,4 @@
-# Predictive Maintenance System
+# Predictive Maintenance System 
 
 ## 📌 Description
 This project helps predict equipment failures by analyzing historical data and identifying patterns that indicate potential issues before they occur.
