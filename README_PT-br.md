@@ -1,4 +1,4 @@
-# Sistema de Manutenção Preditiva
+# Sistema de Manutenção Preditiva 
 
 ## 📌 Descrição
 Este projeto permite prever falhas em equipamentos por meio da análise de dados históricos e padrões que indicam possíveis problemas antes que aconteçam.
